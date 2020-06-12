@@ -1,5 +1,5 @@
 # Making Firends with a Plant [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
-
+https://user-images.githubusercontent.com/7784660/42061710-52037982-7b2b-11e8-9e1c-1f9330e8adbf.png
 An Arduino-based planter that lets your plant express their emotions
 
 The program runs using a hygrometer. The hygrometer give a value for the amount of water content in the soil.
