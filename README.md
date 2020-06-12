@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
-- [Introduction](#description)
-- [Geeting Started](#how-to-use)
-- [Future Direction](#license)
+- [Introduction](#giving-plants-emotions)
+- [Getting Started](#how-to-use)
+- [Future Direction](#where-is-this-project-going)
 
 ---
 ---
@@ -91,8 +91,10 @@ This project was a fun subsidy of a larger initiative called Plantera. Plantera 
 
 As far as the Friendly Plant is concerned, it is possible that I will add an additional speaker component to the project. That way the plant can scream at you when it needs water.
 
-*[x] Find a way to remember to water my plants
-*[x] Give plants facial expressions
-*[] Make plants scream bloody-murder when their soil gets a smidge too dry
+* [x] Find a way to remember to water my plants
+
+* [x] Give plants facial expressions
+
+* [ ] Make plants scream bloody-murder when their soil gets a smidge too dry
 
 [Back To The Top](#read-me-template)
