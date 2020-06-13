@@ -1,6 +1,7 @@
 # Emotional Plants ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-<center><img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/arduinocactus.png?raw=true" width="275"/></center>
+<p align="center">
+  <img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/arduinocactus.png?raw=true" width="275"/></center>
+ </a>
 
 
 
@@ -31,7 +32,9 @@ Plants, being the simplistic treasures they are, cannot communicate their needs 
 
 The emotional plant system works by utilizing a max7219 LED array (8x8) grid and a hygrometer to sense the soil’s moisture content and display to the owner the plant’s level of contentment.
 
-<center><img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/faces.png?raw=true" width="85%"/></center>
+<p align="center">
+ <img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/faces.png?raw=true" width="85%"/>
+ </a>
 
 ---
 ---
@@ -46,13 +49,16 @@ The emotional plant system works by utilizing a max7219 LED array (8x8) grid and
 ---
 1. Start by going to [Arduino's Website](https://create.arduino.cc/) and creating an account for the web editor:
 
-<center><img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/signup_instruct.png?raw=true" width="92%"/></center>
+<p align="center">
+ <img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/signup_instruct.png?raw=true" width="92%"/>
+ </a>
 
 2. Download the [Plants-Are_Friends](https://github.com/clydeventure/Plants-Are-Friends/archive/master.zip) respository.
 
 3. Upload the [Plants-Are_Friends](https://github.com/clydeventure/Plants-Are-Friends/archive/master.zip) .zip file to the cloud editor.
-
-<center><img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/upload_instructions.png?raw=true" width="75%"/></center>
+<p align="center">
+ <img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/upload_instructions.png?raw=true" width="75%"/>
+</a>
 
 4. Plug in your Arduino to a COM port and push the code.
 
@@ -61,7 +67,9 @@ The emotional plant system works by utilizing a max7219 LED array (8x8) grid and
 ---
 1. Here is the schematic for the project.
 
-<center><img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/arduino_emotional_plant.png?raw=true" width="90%"/></center>
+<p align="center">
+ <img src="https://github.com/clydeventure/Plants-Are-Friends/blob/master/img/arduino_emotional_plant.png?raw=true" width="90%"/>
+</a>
 
 
 ---
